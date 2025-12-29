@@ -1,0 +1,7 @@
+{
+  "name": "PIXELPRO Studio",
+  "description": "Professional-grade AI image processing studio featuring neural background removal, generative upscaling, and a high-precision vector engine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
